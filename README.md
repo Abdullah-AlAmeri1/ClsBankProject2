@@ -52,15 +52,15 @@ Scalable Design: Structured to allow future extensions
 
 Core Logic
 
-     Classes for managing Clients, Users, and Banking Operations:
+Classes for managing Clients, Users, and Banking Operations:
 
 Library Layer
 
-      Utility classes for input handling, string processing, and date/time formatting:
+ Utility classes for input handling, string processing, and date/time formatting:
 
 Data Layer
 
-        Text-based files used as a lightweight database for:
+Text-based files used as a lightweight database for:
 
    Clients
 
