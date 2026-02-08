@@ -36,7 +36,7 @@ Restricted actions based on user role (e.g., deleting clients, viewing logs)
 
 Login Registry to track and audit login activity
 -----------------
-## 🛠️ Technical Highlights
+##  🛠️ Technical Highlights
 
 Object-Oriented Design: Modular, class-based architecture
 
@@ -48,27 +48,27 @@ Input Validation: Prevents invalid input and runtime crashes
 
 Scalable Design: Structured to allow future extensions
 ---------------------------
-##📁 Project Structure
+## 📁 Project Structure
 
 Core Logic
 
-Classes for managing Clients, Users, and Banking Operations
+     Classes for managing Clients, Users, and Banking Operations:
 
 Library Layer
 
-Utility classes for input handling, string processing, and date/time formatting
+      Utility classes for input handling, string processing, and date/time formatting:
 
 Data Layer
 
-Text-based files used as a lightweight database for:
+        Text-based files used as a lightweight database for:
 
-Clients
+   Clients
 
-Users
+   Users
 
-Transfer logs
+  Transfer logs
 
-Login records
+  Login records
 --------------------
 ## ⚙️ Technologies Used
 
